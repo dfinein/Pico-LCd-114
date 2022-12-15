@@ -1,5 +1,5 @@
 # Pico-LCd-114
-CircuitPython demo for Waveshare Pico LCD 1.14" Screen
+CircuitPython demo for Waveshare Pico LCD 1.14" Screen ([Amazon Link](https://www.amazon.com/dp/B0948T7M9S?ref=ppx_yo2ov_dt_b_product_details&th=1))
 
 This was made to show the Waveshare Pico LCD 1.14" Screen using CircuitPython versus the MicroPython example provided.  This was based on the version 8 of CircuitPython, and uses:
 * adafruit_st7789
